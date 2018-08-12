@@ -11,7 +11,7 @@ A fun colorful loading bar for python CLI applications.
 
 ## Dependencies
 
-- CImg
+- Todo
 
 ## Reference
 
